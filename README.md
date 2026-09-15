@@ -84,6 +84,16 @@ Weekly staffing summary with averages, min/max per day, and a log of schedule ad
 - Cross-location admin coordination (6 locations)
 - Absence and leave tracking
 - Operational risk identification and resolution
+- SQL and Python-based coverage analysis and automation
 
 ## Tools Used
-Zenoti (booking system) for individual shift management → master rota in Google Sheets → anonymised and rebuilt in Excel for portfolio
+Zenoti (booking system) for individual shift management → master rota in Google Sheets → anonymised and rebuilt in Excel for portfolio · SQL (schema design, joins, CASE logic, window functions) · Python (pandas, sqlite3, matplotlib)
+
+---
+
+## SQL + Python Implementation
+This project also includes SQL (`schema_scheduling.sql`, `queries_scheduling.sql`) and Python (`analyze_scheduling.py`) versions of the coverage logic, using synthetic data to demonstrate:
+- Daily coverage flagging against minimum staffing thresholds
+- Identification of employees with the most unplanned absences
+- Cross-location admin coverage reliability analysis
+- Weekly staffing trend visualisation
