@@ -1,0 +1,391 @@
+employee_id,name,role,shift_date,status
+E001,Olena A.,Nail Master,2026-06-01,W
+E001,Olena A.,Nail Master,2026-06-02,W
+E001,Olena A.,Nail Master,2026-06-03,W
+E001,Olena A.,Nail Master,2026-06-04,W
+E001,Olena A.,Nail Master,2026-06-05,W
+E001,Olena A.,Nail Master,2026-06-06,W
+E001,Olena A.,Nail Master,2026-06-07,W
+E001,Olena A.,Nail Master,2026-06-08,W
+E001,Olena A.,Nail Master,2026-06-09,W
+E001,Olena A.,Nail Master,2026-06-10,W
+E001,Olena A.,Nail Master,2026-06-11,W
+E001,Olena A.,Nail Master,2026-06-12,W
+E001,Olena A.,Nail Master,2026-06-13,W
+E001,Olena A.,Nail Master,2026-06-14,W
+E001,Olena A.,Nail Master,2026-06-15,W
+E001,Olena A.,Nail Master,2026-06-16,W
+E001,Olena A.,Nail Master,2026-06-17,W
+E001,Olena A.,Nail Master,2026-06-18,OFF
+E001,Olena A.,Nail Master,2026-06-19,W
+E001,Olena A.,Nail Master,2026-06-20,W
+E001,Olena A.,Nail Master,2026-06-21,OFF
+E001,Olena A.,Nail Master,2026-06-22,W
+E001,Olena A.,Nail Master,2026-06-23,W
+E001,Olena A.,Nail Master,2026-06-24,W
+E001,Olena A.,Nail Master,2026-06-25,W
+E001,Olena A.,Nail Master,2026-06-26,W
+E001,Olena A.,Nail Master,2026-06-27,W
+E001,Olena A.,Nail Master,2026-06-28,W
+E001,Olena A.,Nail Master,2026-06-29,W
+E001,Olena A.,Nail Master,2026-06-30,W
+E002,Maria B.,Nail Master,2026-06-01,W
+E002,Maria B.,Nail Master,2026-06-02,W
+E002,Maria B.,Nail Master,2026-06-03,W
+E002,Maria B.,Nail Master,2026-06-04,W
+E002,Maria B.,Nail Master,2026-06-05,W
+E002,Maria B.,Nail Master,2026-06-06,W
+E002,Maria B.,Nail Master,2026-06-07,W
+E002,Maria B.,Nail Master,2026-06-08,W
+E002,Maria B.,Nail Master,2026-06-09,W
+E002,Maria B.,Nail Master,2026-06-10,W
+E002,Maria B.,Nail Master,2026-06-11,W
+E002,Maria B.,Nail Master,2026-06-12,W
+E002,Maria B.,Nail Master,2026-06-13,W
+E002,Maria B.,Nail Master,2026-06-14,W
+E002,Maria B.,Nail Master,2026-06-15,W
+E002,Maria B.,Nail Master,2026-06-16,W
+E002,Maria B.,Nail Master,2026-06-17,W
+E002,Maria B.,Nail Master,2026-06-18,V
+E002,Maria B.,Nail Master,2026-06-19,W
+E002,Maria B.,Nail Master,2026-06-20,W
+E002,Maria B.,Nail Master,2026-06-21,OFF
+E002,Maria B.,Nail Master,2026-06-22,W
+E002,Maria B.,Nail Master,2026-06-23,W
+E002,Maria B.,Nail Master,2026-06-24,W
+E002,Maria B.,Nail Master,2026-06-25,W
+E002,Maria B.,Nail Master,2026-06-26,W
+E002,Maria B.,Nail Master,2026-06-27,W
+E002,Maria B.,Nail Master,2026-06-28,W
+E002,Maria B.,Nail Master,2026-06-29,W
+E002,Maria B.,Nail Master,2026-06-30,W
+E003,Sofia C.,Nail Master,2026-06-01,V
+E003,Sofia C.,Nail Master,2026-06-02,W
+E003,Sofia C.,Nail Master,2026-06-03,W
+E003,Sofia C.,Nail Master,2026-06-04,W
+E003,Sofia C.,Nail Master,2026-06-05,W
+E003,Sofia C.,Nail Master,2026-06-06,W
+E003,Sofia C.,Nail Master,2026-06-07,W
+E003,Sofia C.,Nail Master,2026-06-08,OFF
+E003,Sofia C.,Nail Master,2026-06-09,W
+E003,Sofia C.,Nail Master,2026-06-10,W
+E003,Sofia C.,Nail Master,2026-06-11,W
+E003,Sofia C.,Nail Master,2026-06-12,W
+E003,Sofia C.,Nail Master,2026-06-13,W
+E003,Sofia C.,Nail Master,2026-06-14,OFF
+E003,Sofia C.,Nail Master,2026-06-15,W
+E003,Sofia C.,Nail Master,2026-06-16,W
+E003,Sofia C.,Nail Master,2026-06-17,W
+E003,Sofia C.,Nail Master,2026-06-18,W
+E003,Sofia C.,Nail Master,2026-06-19,W
+E003,Sofia C.,Nail Master,2026-06-20,W
+E003,Sofia C.,Nail Master,2026-06-21,W
+E003,Sofia C.,Nail Master,2026-06-22,W
+E003,Sofia C.,Nail Master,2026-06-23,W
+E003,Sofia C.,Nail Master,2026-06-24,W
+E003,Sofia C.,Nail Master,2026-06-25,W
+E003,Sofia C.,Nail Master,2026-06-26,W
+E003,Sofia C.,Nail Master,2026-06-27,W
+E003,Sofia C.,Nail Master,2026-06-28,V
+E003,Sofia C.,Nail Master,2026-06-29,W
+E003,Sofia C.,Nail Master,2026-06-30,W
+E004,Nadia D.,Nail Master,2026-06-01,W
+E004,Nadia D.,Nail Master,2026-06-02,V
+E004,Nadia D.,Nail Master,2026-06-03,W
+E004,Nadia D.,Nail Master,2026-06-04,V
+E004,Nadia D.,Nail Master,2026-06-05,W
+E004,Nadia D.,Nail Master,2026-06-06,W
+E004,Nadia D.,Nail Master,2026-06-07,W
+E004,Nadia D.,Nail Master,2026-06-08,V
+E004,Nadia D.,Nail Master,2026-06-09,OFF
+E004,Nadia D.,Nail Master,2026-06-10,W
+E004,Nadia D.,Nail Master,2026-06-11,W
+E004,Nadia D.,Nail Master,2026-06-12,W
+E004,Nadia D.,Nail Master,2026-06-13,W
+E004,Nadia D.,Nail Master,2026-06-14,W
+E004,Nadia D.,Nail Master,2026-06-15,W
+E004,Nadia D.,Nail Master,2026-06-16,W
+E004,Nadia D.,Nail Master,2026-06-17,W
+E004,Nadia D.,Nail Master,2026-06-18,W
+E004,Nadia D.,Nail Master,2026-06-19,W
+E004,Nadia D.,Nail Master,2026-06-20,W
+E004,Nadia D.,Nail Master,2026-06-21,OFF
+E004,Nadia D.,Nail Master,2026-06-22,W
+E004,Nadia D.,Nail Master,2026-06-23,W
+E004,Nadia D.,Nail Master,2026-06-24,W
+E004,Nadia D.,Nail Master,2026-06-25,W
+E004,Nadia D.,Nail Master,2026-06-26,W
+E004,Nadia D.,Nail Master,2026-06-27,!
+E004,Nadia D.,Nail Master,2026-06-28,W
+E004,Nadia D.,Nail Master,2026-06-29,V
+E004,Nadia D.,Nail Master,2026-06-30,W
+E005,Iryna E.,Nail Master,2026-06-01,W
+E005,Iryna E.,Nail Master,2026-06-02,W
+E005,Iryna E.,Nail Master,2026-06-03,W
+E005,Iryna E.,Nail Master,2026-06-04,W
+E005,Iryna E.,Nail Master,2026-06-05,W
+E005,Iryna E.,Nail Master,2026-06-06,W
+E005,Iryna E.,Nail Master,2026-06-07,W
+E005,Iryna E.,Nail Master,2026-06-08,W
+E005,Iryna E.,Nail Master,2026-06-09,W
+E005,Iryna E.,Nail Master,2026-06-10,W
+E005,Iryna E.,Nail Master,2026-06-11,W
+E005,Iryna E.,Nail Master,2026-06-12,W
+E005,Iryna E.,Nail Master,2026-06-13,W
+E005,Iryna E.,Nail Master,2026-06-14,W
+E005,Iryna E.,Nail Master,2026-06-15,W
+E005,Iryna E.,Nail Master,2026-06-16,V
+E005,Iryna E.,Nail Master,2026-06-17,W
+E005,Iryna E.,Nail Master,2026-06-18,W
+E005,Iryna E.,Nail Master,2026-06-19,W
+E005,Iryna E.,Nail Master,2026-06-20,W
+E005,Iryna E.,Nail Master,2026-06-21,W
+E005,Iryna E.,Nail Master,2026-06-22,W
+E005,Iryna E.,Nail Master,2026-06-23,W
+E005,Iryna E.,Nail Master,2026-06-24,OFF
+E005,Iryna E.,Nail Master,2026-06-25,W
+E005,Iryna E.,Nail Master,2026-06-26,W
+E005,Iryna E.,Nail Master,2026-06-27,W
+E005,Iryna E.,Nail Master,2026-06-28,W
+E005,Iryna E.,Nail Master,2026-06-29,W
+E005,Iryna E.,Nail Master,2026-06-30,W
+E006,Kateryna F.,Nail Master,2026-06-01,W
+E006,Kateryna F.,Nail Master,2026-06-02,W
+E006,Kateryna F.,Nail Master,2026-06-03,W
+E006,Kateryna F.,Nail Master,2026-06-04,OFF
+E006,Kateryna F.,Nail Master,2026-06-05,W
+E006,Kateryna F.,Nail Master,2026-06-06,W
+E006,Kateryna F.,Nail Master,2026-06-07,W
+E006,Kateryna F.,Nail Master,2026-06-08,W
+E006,Kateryna F.,Nail Master,2026-06-09,W
+E006,Kateryna F.,Nail Master,2026-06-10,OFF
+E006,Kateryna F.,Nail Master,2026-06-11,V
+E006,Kateryna F.,Nail Master,2026-06-12,W
+E006,Kateryna F.,Nail Master,2026-06-13,W
+E006,Kateryna F.,Nail Master,2026-06-14,W
+E006,Kateryna F.,Nail Master,2026-06-15,W
+E006,Kateryna F.,Nail Master,2026-06-16,W
+E006,Kateryna F.,Nail Master,2026-06-17,W
+E006,Kateryna F.,Nail Master,2026-06-18,W
+E006,Kateryna F.,Nail Master,2026-06-19,W
+E006,Kateryna F.,Nail Master,2026-06-20,W
+E006,Kateryna F.,Nail Master,2026-06-21,W
+E006,Kateryna F.,Nail Master,2026-06-22,OFF
+E006,Kateryna F.,Nail Master,2026-06-23,W
+E006,Kateryna F.,Nail Master,2026-06-24,W
+E006,Kateryna F.,Nail Master,2026-06-25,W
+E006,Kateryna F.,Nail Master,2026-06-26,W
+E006,Kateryna F.,Nail Master,2026-06-27,W
+E006,Kateryna F.,Nail Master,2026-06-28,W
+E006,Kateryna F.,Nail Master,2026-06-29,W
+E006,Kateryna F.,Nail Master,2026-06-30,W
+E007,Anna G.,Nail Master,2026-06-01,W
+E007,Anna G.,Nail Master,2026-06-02,W
+E007,Anna G.,Nail Master,2026-06-03,W
+E007,Anna G.,Nail Master,2026-06-04,W
+E007,Anna G.,Nail Master,2026-06-05,OFF
+E007,Anna G.,Nail Master,2026-06-06,W
+E007,Anna G.,Nail Master,2026-06-07,OFF
+E007,Anna G.,Nail Master,2026-06-08,OFF
+E007,Anna G.,Nail Master,2026-06-09,OFF
+E007,Anna G.,Nail Master,2026-06-10,W
+E007,Anna G.,Nail Master,2026-06-11,W
+E007,Anna G.,Nail Master,2026-06-12,W
+E007,Anna G.,Nail Master,2026-06-13,W
+E007,Anna G.,Nail Master,2026-06-14,W
+E007,Anna G.,Nail Master,2026-06-15,W
+E007,Anna G.,Nail Master,2026-06-16,!
+E007,Anna G.,Nail Master,2026-06-17,W
+E007,Anna G.,Nail Master,2026-06-18,W
+E007,Anna G.,Nail Master,2026-06-19,W
+E007,Anna G.,Nail Master,2026-06-20,W
+E007,Anna G.,Nail Master,2026-06-21,W
+E007,Anna G.,Nail Master,2026-06-22,W
+E007,Anna G.,Nail Master,2026-06-23,!
+E007,Anna G.,Nail Master,2026-06-24,W
+E007,Anna G.,Nail Master,2026-06-25,W
+E007,Anna G.,Nail Master,2026-06-26,W
+E007,Anna G.,Nail Master,2026-06-27,W
+E007,Anna G.,Nail Master,2026-06-28,W
+E007,Anna G.,Nail Master,2026-06-29,W
+E007,Anna G.,Nail Master,2026-06-30,W
+E008,Vika H.,Nail Master,2026-06-01,OFF
+E008,Vika H.,Nail Master,2026-06-02,W
+E008,Vika H.,Nail Master,2026-06-03,W
+E008,Vika H.,Nail Master,2026-06-04,OFF
+E008,Vika H.,Nail Master,2026-06-05,W
+E008,Vika H.,Nail Master,2026-06-06,W
+E008,Vika H.,Nail Master,2026-06-07,W
+E008,Vika H.,Nail Master,2026-06-08,W
+E008,Vika H.,Nail Master,2026-06-09,!
+E008,Vika H.,Nail Master,2026-06-10,W
+E008,Vika H.,Nail Master,2026-06-11,W
+E008,Vika H.,Nail Master,2026-06-12,W
+E008,Vika H.,Nail Master,2026-06-13,OFF
+E008,Vika H.,Nail Master,2026-06-14,W
+E008,Vika H.,Nail Master,2026-06-15,W
+E008,Vika H.,Nail Master,2026-06-16,W
+E008,Vika H.,Nail Master,2026-06-17,W
+E008,Vika H.,Nail Master,2026-06-18,W
+E008,Vika H.,Nail Master,2026-06-19,OFF
+E008,Vika H.,Nail Master,2026-06-20,W
+E008,Vika H.,Nail Master,2026-06-21,W
+E008,Vika H.,Nail Master,2026-06-22,OFF
+E008,Vika H.,Nail Master,2026-06-23,W
+E008,Vika H.,Nail Master,2026-06-24,V
+E008,Vika H.,Nail Master,2026-06-25,W
+E008,Vika H.,Nail Master,2026-06-26,W
+E008,Vika H.,Nail Master,2026-06-27,W
+E008,Vika H.,Nail Master,2026-06-28,W
+E008,Vika H.,Nail Master,2026-06-29,W
+E008,Vika H.,Nail Master,2026-06-30,W
+E009,Diana I.,Brow Master,2026-06-01,W
+E009,Diana I.,Brow Master,2026-06-02,W
+E009,Diana I.,Brow Master,2026-06-03,W
+E009,Diana I.,Brow Master,2026-06-04,!
+E009,Diana I.,Brow Master,2026-06-05,W
+E009,Diana I.,Brow Master,2026-06-06,W
+E009,Diana I.,Brow Master,2026-06-07,W
+E009,Diana I.,Brow Master,2026-06-08,!
+E009,Diana I.,Brow Master,2026-06-09,W
+E009,Diana I.,Brow Master,2026-06-10,!
+E009,Diana I.,Brow Master,2026-06-11,W
+E009,Diana I.,Brow Master,2026-06-12,W
+E009,Diana I.,Brow Master,2026-06-13,W
+E009,Diana I.,Brow Master,2026-06-14,W
+E009,Diana I.,Brow Master,2026-06-15,W
+E009,Diana I.,Brow Master,2026-06-16,W
+E009,Diana I.,Brow Master,2026-06-17,W
+E009,Diana I.,Brow Master,2026-06-18,W
+E009,Diana I.,Brow Master,2026-06-19,W
+E009,Diana I.,Brow Master,2026-06-20,W
+E009,Diana I.,Brow Master,2026-06-21,W
+E009,Diana I.,Brow Master,2026-06-22,W
+E009,Diana I.,Brow Master,2026-06-23,W
+E009,Diana I.,Brow Master,2026-06-24,W
+E009,Diana I.,Brow Master,2026-06-25,W
+E009,Diana I.,Brow Master,2026-06-26,W
+E009,Diana I.,Brow Master,2026-06-27,W
+E009,Diana I.,Brow Master,2026-06-28,W
+E009,Diana I.,Brow Master,2026-06-29,W
+E009,Diana I.,Brow Master,2026-06-30,W
+E010,Yana J.,Brow Master,2026-06-01,W
+E010,Yana J.,Brow Master,2026-06-02,W
+E010,Yana J.,Brow Master,2026-06-03,W
+E010,Yana J.,Brow Master,2026-06-04,W
+E010,Yana J.,Brow Master,2026-06-05,!
+E010,Yana J.,Brow Master,2026-06-06,W
+E010,Yana J.,Brow Master,2026-06-07,W
+E010,Yana J.,Brow Master,2026-06-08,W
+E010,Yana J.,Brow Master,2026-06-09,W
+E010,Yana J.,Brow Master,2026-06-10,W
+E010,Yana J.,Brow Master,2026-06-11,W
+E010,Yana J.,Brow Master,2026-06-12,W
+E010,Yana J.,Brow Master,2026-06-13,W
+E010,Yana J.,Brow Master,2026-06-14,OFF
+E010,Yana J.,Brow Master,2026-06-15,W
+E010,Yana J.,Brow Master,2026-06-16,V
+E010,Yana J.,Brow Master,2026-06-17,OFF
+E010,Yana J.,Brow Master,2026-06-18,W
+E010,Yana J.,Brow Master,2026-06-19,W
+E010,Yana J.,Brow Master,2026-06-20,OFF
+E010,Yana J.,Brow Master,2026-06-21,W
+E010,Yana J.,Brow Master,2026-06-22,W
+E010,Yana J.,Brow Master,2026-06-23,W
+E010,Yana J.,Brow Master,2026-06-24,W
+E010,Yana J.,Brow Master,2026-06-25,W
+E010,Yana J.,Brow Master,2026-06-26,W
+E010,Yana J.,Brow Master,2026-06-27,W
+E010,Yana J.,Brow Master,2026-06-28,W
+E010,Yana J.,Brow Master,2026-06-29,W
+E010,Yana J.,Brow Master,2026-06-30,!
+E011,Alina K.,Administrator,2026-06-01,W
+E011,Alina K.,Administrator,2026-06-02,OFF
+E011,Alina K.,Administrator,2026-06-03,OFF
+E011,Alina K.,Administrator,2026-06-04,W
+E011,Alina K.,Administrator,2026-06-05,OFF
+E011,Alina K.,Administrator,2026-06-06,V
+E011,Alina K.,Administrator,2026-06-07,W
+E011,Alina K.,Administrator,2026-06-08,V
+E011,Alina K.,Administrator,2026-06-09,W
+E011,Alina K.,Administrator,2026-06-10,W
+E011,Alina K.,Administrator,2026-06-11,V
+E011,Alina K.,Administrator,2026-06-12,OFF
+E011,Alina K.,Administrator,2026-06-13,W
+E011,Alina K.,Administrator,2026-06-14,W
+E011,Alina K.,Administrator,2026-06-15,W
+E011,Alina K.,Administrator,2026-06-16,W
+E011,Alina K.,Administrator,2026-06-17,W
+E011,Alina K.,Administrator,2026-06-18,W
+E011,Alina K.,Administrator,2026-06-19,OFF
+E011,Alina K.,Administrator,2026-06-20,W
+E011,Alina K.,Administrator,2026-06-21,W
+E011,Alina K.,Administrator,2026-06-22,W
+E011,Alina K.,Administrator,2026-06-23,W
+E011,Alina K.,Administrator,2026-06-24,W
+E011,Alina K.,Administrator,2026-06-25,OFF
+E011,Alina K.,Administrator,2026-06-26,W
+E011,Alina K.,Administrator,2026-06-27,W
+E011,Alina K.,Administrator,2026-06-28,V
+E011,Alina K.,Administrator,2026-06-29,OFF
+E011,Alina K.,Administrator,2026-06-30,V
+E012,Marta L.,Administrator,2026-06-01,W
+E012,Marta L.,Administrator,2026-06-02,W
+E012,Marta L.,Administrator,2026-06-03,W
+E012,Marta L.,Administrator,2026-06-04,OFF
+E012,Marta L.,Administrator,2026-06-05,W
+E012,Marta L.,Administrator,2026-06-06,W
+E012,Marta L.,Administrator,2026-06-07,W
+E012,Marta L.,Administrator,2026-06-08,V
+E012,Marta L.,Administrator,2026-06-09,OFF
+E012,Marta L.,Administrator,2026-06-10,W
+E012,Marta L.,Administrator,2026-06-11,W
+E012,Marta L.,Administrator,2026-06-12,V
+E012,Marta L.,Administrator,2026-06-13,W
+E012,Marta L.,Administrator,2026-06-14,OFF
+E012,Marta L.,Administrator,2026-06-15,W
+E012,Marta L.,Administrator,2026-06-16,W
+E012,Marta L.,Administrator,2026-06-17,OFF
+E012,Marta L.,Administrator,2026-06-18,W
+E012,Marta L.,Administrator,2026-06-19,W
+E012,Marta L.,Administrator,2026-06-20,V
+E012,Marta L.,Administrator,2026-06-21,OFF
+E012,Marta L.,Administrator,2026-06-22,OFF
+E012,Marta L.,Administrator,2026-06-23,W
+E012,Marta L.,Administrator,2026-06-24,OFF
+E012,Marta L.,Administrator,2026-06-25,W
+E012,Marta L.,Administrator,2026-06-26,OFF
+E012,Marta L.,Administrator,2026-06-27,W
+E012,Marta L.,Administrator,2026-06-28,W
+E012,Marta L.,Administrator,2026-06-29,W
+E012,Marta L.,Administrator,2026-06-30,V
+E013,Lesia M.,Cleaner,2026-06-01,W
+E013,Lesia M.,Cleaner,2026-06-02,W
+E013,Lesia M.,Cleaner,2026-06-03,W
+E013,Lesia M.,Cleaner,2026-06-04,W
+E013,Lesia M.,Cleaner,2026-06-05,W
+E013,Lesia M.,Cleaner,2026-06-06,W
+E013,Lesia M.,Cleaner,2026-06-07,W
+E013,Lesia M.,Cleaner,2026-06-08,W
+E013,Lesia M.,Cleaner,2026-06-09,W
+E013,Lesia M.,Cleaner,2026-06-10,W
+E013,Lesia M.,Cleaner,2026-06-11,OFF
+E013,Lesia M.,Cleaner,2026-06-12,W
+E013,Lesia M.,Cleaner,2026-06-13,W
+E013,Lesia M.,Cleaner,2026-06-14,W
+E013,Lesia M.,Cleaner,2026-06-15,W
+E013,Lesia M.,Cleaner,2026-06-16,W
+E013,Lesia M.,Cleaner,2026-06-17,W
+E013,Lesia M.,Cleaner,2026-06-18,W
+E013,Lesia M.,Cleaner,2026-06-19,OFF
+E013,Lesia M.,Cleaner,2026-06-20,W
+E013,Lesia M.,Cleaner,2026-06-21,W
+E013,Lesia M.,Cleaner,2026-06-22,W
+E013,Lesia M.,Cleaner,2026-06-23,V
+E013,Lesia M.,Cleaner,2026-06-24,W
+E013,Lesia M.,Cleaner,2026-06-25,OFF
+E013,Lesia M.,Cleaner,2026-06-26,W
+E013,Lesia M.,Cleaner,2026-06-27,W
+E013,Lesia M.,Cleaner,2026-06-28,OFF
+E013,Lesia M.,Cleaner,2026-06-29,W
+E013,Lesia M.,Cleaner,2026-06-30,W
